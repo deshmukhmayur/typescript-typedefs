@@ -2,6 +2,8 @@
 
 Presentation for TypeScript Type Declarations
 
+You can find the presentation [here^](https://deshmukhmayur.github.io/typescript-typedefs/)
+
 
 ### References
 
